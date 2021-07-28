@@ -31,6 +31,7 @@ import io.netty.handler.ssl.util.SelfSignedCertificate;
 
 /**
  * Discards any incoming data.
+ * 忽略接受的数据
  */
 public final class DiscardServer {
 
